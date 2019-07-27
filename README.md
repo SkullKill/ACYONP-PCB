@@ -74,17 +74,22 @@ e.g
 
 Crimping Tool: 0.1-1.0 mm² Capacity, 16-28 AWG
 https://www.pololu.com/product/1928
+
 Crimp Connector Housings
 https://www.pololu.com/category/70/crimp-connector-housings
+
 Female Crimp Pins for 0.1" Housings
 https://www.pololu.com/product/1930
+
 Male Crimp Pins for 0.1" Housings
 https://www.pololu.com/product/1931
 
 Wires with Pre-Crimped Terminals
 https://www.pololu.com/category/71/wires-with-pre-crimped-terminals
+
 Premium Jumper Wires
 https://www.pololu.com/category/65/premium-jumper-wires
+
 
 https://www.futurlec.com/ConnHead.shtml
 
