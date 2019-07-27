@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ACYONP-SMD-LCSC)(type Legacy)(uri ${KIPRJMOD}/ACYONP-SMD-LCSC.lib)(options "")(descr ""))
+  (lib (name raspberrypi_hat)(type Legacy)(uri D:/Users/SkullKill/Documents/Documents/Australia/Electronics/AccessControl/rasp-pi-hat/rasp-pi-hat/project_components/raspberrypi_hat.lib)(options "")(descr ""))
+)

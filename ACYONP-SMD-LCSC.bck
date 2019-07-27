@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT24C32
+D I2C Serial EEPROM 32Kb
+K EEPROM Serial
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C32WI-GT3_C81193.pdf
+$ENDCMP
+#
+$CMP DMG2305UX
+D Transistor P-MOSFET
+K pmos p-mos p-mosfet transistor
+F https://datasheet.lcsc.com/szlcsc/Diodes-Incorporated-DMG2305UX-13_C144153.pdf
+$ENDCMP
+#
+$CMP DMMT5401
+D PNP Matched Transistor Pair
+K PNP Matched Transistor
+F https://datasheet.lcsc.com/szlcsc/Diodes-Incorporated-DMMT5401-7-F_C154733.pdf
+$ENDCMP
+#
+#End Doc Library
