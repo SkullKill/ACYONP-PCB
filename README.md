@@ -66,7 +66,7 @@ ACYONP-SMD-schematics-v1.2a.jpg
 
 
 
-
+### Dupont kit / Jumper Wires
 you will need a dupont crimp kit 2.54 / tool
 and / or jumper wires
 
@@ -94,6 +94,42 @@ https://www.pololu.com/category/65/premium-jumper-wires
 https://www.futurlec.com/ConnHead.shtml
 
 
+### Keypad
+
 Metallic Waterproof 3x4 Keypad
 https://www.futurlec.com/Keypads.shtml
 
+### PN532 NFC controller in UART mode
+
+e.g
+
+https://www.dfrobot.com/product-892.html
+
+https://wiki.dfrobot.com/NFC_Module_for_Arduino__SKU_DFR0231_
+
+
+### other items used, can be any other ones.
+
+H0307 • 145Lx105Wx65Dmm IP65 Sealed ABS Enclosure
+
+https://www.altronics.com.au/p/h0307-ritec-145lx105wx65dmm-ip65-sealed-abs-enclosure/
+
+H0151 • UB1 (157Lx95Wx53Hmm) Grey ABS Jiffy Box
+
+https://www.altronics.com.au/p/h0151-ub1-157lx95wx53hmm-grey-abs-jiffy-box/
+
+P0628 • 2.1mm Female Plastic Chassis Mount DC Power Socket (not necessary)
+
+https://www.altronics.com.au/p/p0628-2.1mm-female-plastic-chassis-mount-dc-power-socket/
+
+H1554 • 5mm LED Mounts Pk 100
+
+https://www.altronics.com.au/p/h1554-5mm-led-mounts-pk-100/
+
+S6109 • 1.5-24V Piezo Chassis Mount Buzzer (status buzzer)
+
+https://www.altronics.com.au/p/s6109-1.5-24v-piezo-chassis-mount-buzzer/
+
+S6100 • 3-15V Mechanical Chassis Mount Buzzer (door buzzer)
+
+https://www.altronics.com.au/p/s6100-3-15v-mechanical-chassis-mount-buzzer/
