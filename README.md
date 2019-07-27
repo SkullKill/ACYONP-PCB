@@ -107,6 +107,11 @@ https://www.dfrobot.com/product-892.html
 
 https://wiki.dfrobot.com/NFC_Module_for_Arduino__SKU_DFR0231_
 
+### Yubico Yubikey
+YubiKey 5 NFC
+
+https://www.yubico.com/product/yubikey-5-nfc
+
 
 ### other items used, can be any other ones.
 
