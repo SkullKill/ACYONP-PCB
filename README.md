@@ -12,7 +12,7 @@ The script [ACYONP](https://github.com/SkullKill/ACYONP) is design specificly fo
 
 SKaccess by Simon Kong
 
-www.skaccess.com
+https://www.skaccess.com
 
 ACYONP-SMD-01.jpg
 NFC Reader is at the top of the Box, inside. putting the yubikey on top of the box will scan the yubikey neo / yubikey 5 nfc.
